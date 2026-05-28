@@ -1,37 +1,36 @@
-# Customer Churn Analysis Mini Project
+# 📊 Customer Churn Analysis Project
 
-## Tools Used
+## 🧠 Objective
+To analyze customer behavior and identify factors affecting churn.
+
+## 🛠 Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 - GitHub Codespaces
 
-## Objective
-Analyze customer churn patterns using customer data.
+---
 
-## Features
-- Customer churn analysis
-- Churn percentage calculation
-- Multiple graphs
-- Customer insights
-- Conclusion section
+## 📌 Key Insights
+- Customers with higher spending tend to churn more
+- Gender-based churn patterns can be compared
+- Tenure and usage behavior affect churn
 
-## Customer Insights
-1. Customers with higher spending tend to churn more.
-2. Churn behavior varies across customer groups.
-3. Data analysis helps businesses improve retention.
+---
 
-## Conclusion
-Customer churn analysis helps businesses identify customers likely to leave and take preventive actions.
+## 📊 Visualizations
 
-## Project Output
-
-### Churn Count Graph
+### 1. Churn Count
 ![Churn Count](churn_count.png)
 
-### Gender vs Churn
+### 2. Gender vs Churn
 ![Gender vs Churn](gender_churn.png)
 
-### Total Spend vs Churn
+### 3. Total Spend vs Churn
 ![Total Spend](total_spend.png)
+
+---
+
+## 📌 Conclusion
+Customer churn analysis helps businesses identify customers likely to leave and improve retention strategies.
