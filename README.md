@@ -1,31 +1,4 @@
 
-Customer Churn Analysis and Prediction
-
-Project Overview
-
-This project analyzes customer churn data and predicts whether a customer is likely to leave a service using Machine Learning. The project includes data visualization, customer insights, churn analysis, and a Streamlit dashboard for interactive exploration.
-
-Features
-
-- Customer Churn Analysis
-- Churn Percentage Calculation
-- Customer Insights
-- Data Visualization
-- Machine Learning Prediction
-- Logistic Regression Model
-- Model Accuracy Evaluation
-- Confusion Matrix
-- Feature Importance Analysis
-- Interactive Streamlit Dashboard
-
-Technologies Used
-
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Streamlit
 
 📊 Customer Churn Analysis and Prediction
 
